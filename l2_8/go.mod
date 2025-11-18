@@ -1,4 +1,4 @@
-module github.com/Vestamart/wb-l2/blob/main/l2_8
+module github.com/Vestamart/wb-l2/tree/main/l2_8
 
 go 1.24.7
 
